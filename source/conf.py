@@ -19,6 +19,7 @@ needs_sphinx = '1.0'
 extensions = [
     'issue_role',
     'issue_directive',
+    'issue_event',
 ]
 
 # The suffix(es) of source filenames.

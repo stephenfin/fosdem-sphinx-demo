@@ -8,3 +8,11 @@ A Lion, a Head, and a Dash of YAML
 
    changes
    issues
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Issues:
+   :glob:
+
+   issues/*
