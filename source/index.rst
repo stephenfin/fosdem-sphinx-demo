@@ -7,3 +7,4 @@ A Lion, a Head, and a Dash of YAML
    :caption: Contents:
 
    changes
+   issues
